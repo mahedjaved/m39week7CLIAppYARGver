@@ -1,15 +1,24 @@
 {
-  "name": "yarg_based_cli_project",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "yarg": "^1.0.8"
-  }
+    "name": "yarg_based_cli_project",
+    "version": "1.0.0",
+    "description": "This repo contains code for the YARG usage of making a Netflix style CLI",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "minimist": "^1.2.6",
+        "yargs": "^17.5.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mahedjaved/m39week7CLIAppYARGver.git"
+    },
+    "bugs": {
+        "url": "https://github.com/mahedjaved/m39week7CLIAppYARGver/issues"
+    },
+    "homepage": "https://github.com/mahedjaved/m39week7CLIAppYARGver#readme"
 }
